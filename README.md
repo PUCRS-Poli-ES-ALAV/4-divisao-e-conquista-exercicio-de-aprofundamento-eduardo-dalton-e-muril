@@ -88,3 +88,7 @@
       
 5. Monte uma tabela com os resultados das execuções acima. As linhas da tabela são os algoritmos implementados, as colunas o tamanho dos vetores usados para testar e contabilizar.
 
+
+ // Multiplica duas strings de bits x e y
+ // e retorna o resultado como um inteiro "long".
+    public static long multiply(String X, String Y);
